@@ -76,7 +76,8 @@ Project Root
 ├── MCAL
 │   ├── GPIO
 │   ├── RCC
-│   └── Timer (PWM & Input Capture Modes)
+    ├── Timer (PWM & Input Capture Modes)
+│   └── stm32f103xx.h
 │
 ├── HAL
 │   ├── LCD
