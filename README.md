@@ -52,16 +52,16 @@ Here’s a short demo showing the system in action:
 
 ## 🚀 How to Use
 
-1. **Connect LCD with STM32**
+1. **Connect LCD with STM32F103C8**
    - D7 : B12
    - D6 : B13
    - D5 : B14
    - D4 : B15
    - EN : A8
    - RS : A11
-2. **Connect Servo with STM32**
+2. **Connect Servo with STM32F103C8**
    - PWM : A7
-3. **Connect Ultrasonic with STM32**
+3. **Connect Ultrasonic with STM32F103C8**
    - Trig : C15
    - Echo : A0
 4. **Flash the STM32** code using STM32CubeIDE or ST-Link Utility (where the .elf & .bin & .hex files are available on Debug folder).    
