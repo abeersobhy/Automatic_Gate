@@ -1,0 +1,4 @@
+../STM32F103_MCAL/I2C/I2C.c:14:6:I2Cx_Init	72	static
+../STM32F103_MCAL/I2C/I2C.c:181:6:I2C_Master_TX	40	static
+../STM32F103_MCAL/I2C/I2C.c:226:6:I2C_Master_RX	32	static
+../STM32F103_MCAL/I2C/I2C.c:298:6:I2C_GenerateStart	16	static

@@ -1,0 +1,9 @@
+../STM32F103_MCAL/GPIO/gpio.c:18:6:MCAL_GPIO_Init	24	static
+../STM32F103_MCAL/GPIO/gpio.c:78:6:MCAL_GPIO_DeInit	16	static
+../STM32F103_MCAL/GPIO/gpio.c:112:9:MCAL_GPIO_ReadPin	24	static
+../STM32F103_MCAL/GPIO/gpio.c:126:6:MCAL_GPIO_WritePin	16	static
+../STM32F103_MCAL/GPIO/gpio.c:144:6:MCAL_GPIO_TogglePin	16	static
+../STM32F103_MCAL/GPIO/gpio.c:155:6:MCAL_GPIO_WritePort	16	static
+../STM32F103_MCAL/GPIO/gpio.c:165:10:MCAL_GPIO_ReadPort	16	static
+../STM32F103_MCAL/GPIO/gpio.c:176:9:MCAL_GPIO_LockPin	24	static
+../STM32F103_MCAL/GPIO/gpio.c:199:6:delay_ms	24	static,ignoring_inline_asm

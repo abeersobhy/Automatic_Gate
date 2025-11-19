@@ -1,0 +1,2 @@
+../HAL/Ultrasonic/Ultrasonic.c:11:6:Ultrasonic_Init	104	static
+../HAL/Ultrasonic/Ultrasonic.c:62:8:Ultrasonic_GetDistance	32	static
