@@ -21,7 +21,7 @@ This project demonstrates the use of **PWM**, **Input Capture**, and **Timer-bas
 ## 🛠 Hardware Used
 - **STM32F103C8T6 (“Blue Pill”)**
 - **HC-SR04 Ultrasonic Sensor**
-- **SG90 / MG90 Servo Motor**
+- **SG90 Servo Motor**
 - **16×2 Character LCD (4-bit mode)**
 
 ---
