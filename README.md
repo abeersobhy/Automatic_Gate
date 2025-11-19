@@ -47,6 +47,24 @@ Here’s a short demo showing the system in action:
 <p align="center">
   <img src="Doc/Automatic_Gate.png" width="550" alt="Data Transfer">
 </p>
+
+---
+
+## 🚀 How to Use
+
+1. **Connect LCD with STM32**
+   - D7 : B12
+   - D6 : B13
+   - D5 : B14
+   - D4 : B15
+   - EN : A8
+   - RS : A11
+2. **Connect Servo with STM32**
+   - PWM : A7
+3. **Connect Ultrasonic with STM32**
+   - Trig : C15
+   - Echo : A0
+4. **Flash the STM32** code using STM32CubeIDE or ST-Link Utility (where the .elf & .bin & .hex files are available on Debug folder).    
 ---
 
 ## 🧩 System Architecture
@@ -69,20 +87,4 @@ Project Root
     ├── App.c
     └── App.h
 
----
-## 🚀 How to Use
-
-1. **Connect LCD with STM32**
-   - D7 : B12
-   - D6 : B13
-   - D5 : B14
-   - D4 : B15
-   - EN : A8
-   - RS : A11
-2. **Connect Servo with STM32**
-   - PWM : A7
-3. **Connect Ultrasonic with STM32**
-   - Trig : C15
-   - Echo : A0
-4. **Flash the STM32** code using STM32CubeIDE or ST-Link Utility (where the .elf & .bin & .hex files are available on Debug folder).    
 ---
