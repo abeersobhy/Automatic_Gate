@@ -29,7 +29,7 @@ This project demonstrates the use of **PWM**, **Input Capture**, and **Timer-bas
 - **STM32CubeIDE** – for coding, compiling, and debugging  
 - **Programming Language:** C  
 - **Embedded Layers:**
-  - **MCAL:** GPIO, RCC, Timer (PWM & Input Capture),  
+  - **MCAL:** GPIO, RCC, Timer (PWM & Input Capture)  
   - **HAL:** LCD, Ultrasonic, and Servo Motor  
   - **APP:** System initialization and operation logic  
 
